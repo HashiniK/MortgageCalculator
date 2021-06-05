@@ -1,0 +1,17 @@
+.root {
+    -fx-background-image: url("280606a9b1f0bbd93406059a42dc0ba8.jpg");
+    -fx-background-size: 100%;
+    -fx-opacity: 100;
+}
+.button {
+    -fx-font-family: "Comic Sans MS";
+}
+.label {
+    -fx-font-style: inherit;
+    -fx-font-family: "Arial";
+}
+TextField{
+    -fx-background-color: transparent;
+    -fx-border-color: black;
+    -fx-border-radius: 15;
+}

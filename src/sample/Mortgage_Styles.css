@@ -1,0 +1,16 @@
+.root {
+    -fx-background-image: url("bg-finance-1030x644.jpg");
+    -fx-background-size: 100%;
+}
+.Button {
+    -fx-font-family: "Arial";
+}
+.Label {
+    -fx-font-style: inherit;
+    -fx-font-family: "Arial";
+}
+TextField {
+    -fx-background-color: transparent;
+    -fx-border-color: black;
+    -fx-border-radius: 15;
+}

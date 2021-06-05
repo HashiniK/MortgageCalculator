@@ -1,0 +1,16 @@
+.root {
+    -fx-background-image: url("savings.jpg");
+    -fx-background-size: 100%;
+}
+TextField {
+    -fx-background-color: transparent;
+    -fx-border-color: black;
+    -fx-border-radius: 15;
+}
+Label {
+    -fx-font-style: inherit;
+    -fx-font-family: "Arial";
+}
+Button {
+    -fx-font-family: "Arial";
+}

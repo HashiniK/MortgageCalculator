@@ -1,0 +1,14 @@
+.root {
+    -fx-background-image: url("Background-website-01.jpg");
+    -fx-background-size: 100%;
+}
+.button {
+    -fx-border-radius: 15;
+    -fx-background-radius: 30px;
+    -fx-font-family: "Arial";
+    -fx-border-color: black;
+}
+.label {
+    -fx-font-style: oblique;
+    -fx-font-family: "Arial";
+}
